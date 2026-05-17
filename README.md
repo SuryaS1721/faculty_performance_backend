@@ -71,7 +71,7 @@ Backend runs at: **http://localhost:8000**
 
 ---
 
-## 🖥️ Frontend Setup (React + Vite)
+##  Frontend Setup (React + Vite)
 
 ### 1. Install Node.js dependencies
 ```bash
@@ -87,7 +87,7 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-## 🔑 Default Login Credentials
+##  Default Login Credentials
 
 | Field    | Value    |
 |----------|----------|
@@ -114,7 +114,7 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-## 🧪 Features
+##  Features
 
 - ✅ JWT-based admin login/logout
 - ✅ Add / Edit / Delete faculty records
